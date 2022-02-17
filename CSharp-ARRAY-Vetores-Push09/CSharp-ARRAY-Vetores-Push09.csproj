@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CSharp_ARRAY_Vetores_Push09</RootNamespace>
+  </PropertyGroup>
+
+</Project>
